@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Kevin Hanton",
+        "url": "http://eventhustle.co"
+    },
+    "maintainers": [
+        {
+            "name": "Kevin Hanton",
+            "email": "kevin.hanton2@mail.dcu.ie",
+            "url": "http://eventhustle.co"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Khan1989/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/Khan1989/jquery.linkIt",
+    "docs": "https://github.com/Khan1989/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
